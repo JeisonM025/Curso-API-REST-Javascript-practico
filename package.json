@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso Practico Consumo Api rest Javascript (Platzi Movie)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeisonM025/Curso-API-REST-Javascript-practico.git"
+  },
+  "author": "Jeipox :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeisonM025/Curso-API-REST-Javascript-practico/issues"
+  },
+  "homepage": "https://github.com/JeisonM025/Curso-API-REST-Javascript-practico#readme"
+}
